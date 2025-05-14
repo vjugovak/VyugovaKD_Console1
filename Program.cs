@@ -1,5 +1,5 @@
 ﻿// Вьюгова Ксения Ам-1-24
-
+//new_feature
 using System;
 
 public class Program
