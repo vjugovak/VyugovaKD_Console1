@@ -1,3 +1,5 @@
 !VyugovaKD.pdf
 *.pdf
 # VyugovaKD
+bin/
+obj/
