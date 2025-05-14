@@ -1,5 +1,6 @@
 ﻿// Вьюгова Ксения Ам-1-24
 //new_feature
+//solve task2
 using System;
 
 public class Program
